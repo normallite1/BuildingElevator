@@ -1,4 +1,4 @@
-package Service;
+package service;
 
 import model.Building;
 import model.Elevator;

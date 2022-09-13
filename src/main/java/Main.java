@@ -1,7 +1,5 @@
-import Service.BuildingService;
+import service.BuildingService;
 import model.Building;
-
-import java.util.Random;
 
 public class Main {
 
